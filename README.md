@@ -2,8 +2,6 @@
 
 This showcases how to migrate a Feast feature store from Redis to DragonflyDB.
 
-##  What This Demo Shows
-
 1. Setting up Feast with Redis as the online store
 2. Materializing features to Redis
 3. Migrating to DragonflyDB (drop-in Redis replacement)
